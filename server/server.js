@@ -1,6 +1,9 @@
 //server/server.js
 const express = require('express');
 const bodyParser = require('body-parser');
+const carritoRoutes = require('../routes/carritoRoutes');
+
+
 const cors = require('cors'); // Importa el paquete CORS
 
 require('dotenv').config();
@@ -18,6 +21,7 @@ app.use(bodyParser.json());
 
 // Registra las rutas
 app.use('/api', authRoutes);
+app.use('/api/carrito', carritoRoutes);   
 
 // Inicia el servidor
 app.listen(port, () => {

@@ -5,9 +5,8 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 // Importa el middleware desde la nueva ubicación
-const authMiddleware = require('../middleware/authMiddleware'); // Ajustar la ruta
-
-const router = express.Router();
+const authMiddleware = require('../middleware/authMiddleware'); //asegurarse de que la ruta sea correcta
+const router = express.Router();//
 
 // Simulamos una base de datos de usuarios
 const users = [
@@ -22,9 +21,6 @@ const users = [
 router.post('/login', (req, res) => {
     const { email, password } = req.body;
 
-  
-    
-
     // busca el primer elemento del array que cumpla una condición
     const user = users.find(u => u.email === email);
 
@@ -36,6 +32,8 @@ router.post('/login', (req, res) => {
     //Compara la contraseña ingresada (password) con la contraseña encriptada del usuario (user.password).
 //Esta función es asíncrona y usa un callback.
     bcrypt.compare(password, user.password, (err, isMatch) => {
+        // isMatch es un booleano que indica si las contraseñas coinciden
+        // err es un error si ocurre durante la comparación
         if (err) {
             return res.status(500).json({ message: 'Error en la autenticación' });
         }
@@ -89,6 +87,10 @@ router.post('/register', (req, res) => {
 router.get('/tienda', authMiddleware, (req, res) => {
     // Solo se ejecutará si el token es válido
     res.json({ message: 'Bienvenido a la tienda', user: req.user });
+});
+router.get('/almacen', authMiddleware, (req, res) => {
+    // Solo se ejecutará si el token es válido
+    res.json({ message: 'Bienvenido al almacen', user: req.user });
 });
 
 module.exports = router;
