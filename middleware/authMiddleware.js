@@ -1,5 +1,4 @@
 // middleware/authMiddleware.js
-
 const jwt = require('jsonwebtoken');
 // Middleware para verificar el token JWT
 // Este middleware se encarga de verificar si el token JWT es válido y si el usuario está autenticado

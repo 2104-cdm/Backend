@@ -2,6 +2,8 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const carritoRoutes = require('../routes/carritoRoutes');
+const ventasRoutes  = require('../routes/ventasRoutes');
+const almacenRoutes = require('../routes/almacenRoutes');
 
 
 const cors = require('cors'); // Importa el paquete CORS
@@ -21,9 +23,17 @@ app.use(bodyParser.json());
 
 // Registra las rutas
 app.use('/api', authRoutes);
-app.use('/api/carrito', carritoRoutes);   
+app.use('/api/carrito', carritoRoutes);
+app.use('/api/ventas',  ventasRoutes);
+app.use('/api/almacen', almacenRoutes);
+
+
+
 
 // Inicia el servidor
 app.listen(port, () => {
   console.log(`Servidor corriendo en http://localhost:${port}`);
 });
+// server/server.js
+
+  // ver paso 2
