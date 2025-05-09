@@ -12,7 +12,10 @@ exports.obtenerVentas = (req, res) => {
         res.json(ventas);
     });
 };
-
+// function getDB() {
+//     try {
+//         return JSON.parse(fs.readFileSync(ventasFilePath, 'utf-8'));
+//     }
 // Registrar una nueva venta
 exports.registrarVenta = (req, res) => {
     console.log('[ventasController] registrarVenta → body:', req.body);
