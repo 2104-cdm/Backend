@@ -30,5 +30,115 @@
     "despachado": true,
     "fecha": "2025-05-09T17:22:40.186Z",
     "fechaDespacho": "2025-05-09T17:22:45.139Z"
+  },
+  {
+    "id": 1746811694987,
+    "productos": [
+      {
+        "id": "10",
+        "nombre": "Colin Alimado",
+        "precio": 1707,
+        "imagen": "https://images.unsplash.com/photo-1602510904648-cef1a47d92d4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 1
+      }
+    ],
+    "total": 1707,
+    "despachado": true,
+    "fecha": "2025-05-09T17:28:14.987Z",
+    "fechaDespacho": "2025-05-09T17:28:18.669Z"
+  },
+  {
+    "id": 1746828818514,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 8
+      }
+    ],
+    "total": 7120,
+    "despachado": true,
+    "fecha": "2025-05-09T22:13:38.514Z",
+    "fechaDespacho": "2025-05-09T22:14:04.142Z"
+  },
+  {
+    "id": 1746838726076,
+    "productos": [
+      {
+        "id": "10",
+        "nombre": "Colin Alimado",
+        "precio": 1707,
+        "imagen": "https://images.unsplash.com/photo-1602510904648-cef1a47d92d4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 7
+      }
+    ],
+    "total": 11949,
+    "despachado": true,
+    "fecha": "2025-05-10T00:58:46.076Z",
+    "fechaDespacho": "2025-05-10T00:58:53.113Z"
+  },
+  {
+    "id": 1746838773858,
+    "productos": [
+      {
+        "id": "10",
+        "nombre": "Colin Alimado",
+        "precio": 1707,
+        "imagen": "https://images.unsplash.com/photo-1602510904648-cef1a47d92d4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 5
+      }
+    ],
+    "total": 8535,
+    "despachado": true,
+    "fecha": "2025-05-10T00:59:33.858Z",
+    "fechaDespacho": "2025-05-10T01:27:39.817Z"
+  },
+  {
+    "id": 1746840004167,
+    "productos": [
+      {
+        "id": "10",
+        "nombre": "Colin Alimado",
+        "precio": 1707,
+        "imagen": "https://images.unsplash.com/photo-1602510904648-cef1a47d92d4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 5
+      }
+    ],
+    "total": 8535,
+    "despachado": true,
+    "fecha": "2025-05-10T01:20:04.167Z",
+    "fechaDespacho": "2025-05-10T01:27:43.267Z"
+  },
+  {
+    "id": 1746840079609,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 1780,
+    "despachado": false,
+    "fecha": "2025-05-10T01:21:19.609Z"
+  },
+  {
+    "id": 1746840472569,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 1780,
+    "despachado": false,
+    "fecha": "2025-05-10T01:27:52.569Z"
   }
 ]
