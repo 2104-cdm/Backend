@@ -60,8 +60,7 @@ exports.agregarAlCarrito = (req, res) => {
     // Obtener el email del usuario autenticado
 
     const { producto } = req.body;
-    // Desestructuración para extraer 'producto' enviado en el cuerpo de la petición
-
+    
     const data = getDB();
     // Cargar los datos actuales del archivo
 
@@ -80,7 +79,7 @@ exports.agregarAlCarrito = (req, res) => {
         message: `Producto agregado al carrito de ${email}`,
         carrito: data[email]
     });
-    // Responder con código 201 (creado) y mensaje de confirmación junto con el carrito actualizado
+    
 };
 
 // Eliminar un producto del carrito de un usuario

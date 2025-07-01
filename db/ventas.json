@@ -302,5 +302,325 @@
     "despachado": true,
     "fecha": "2025-05-12T01:09:50.521Z",
     "fechaDespacho": "2025-05-12T01:09:56.264Z"
+  },
+  {
+    "id": 1749514094669,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 2670,
+    "despachado": true,
+    "fecha": "2025-06-10T00:08:14.669Z",
+    "fechaDespacho": "2025-06-10T00:10:24.541Z"
+  },
+  {
+    "id": 1749514244715,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 6
+      }
+    ],
+    "total": 1800,
+    "despachado": true,
+    "fecha": "2025-06-10T00:10:44.715Z",
+    "fechaDespacho": "2025-06-10T00:10:48.011Z"
+  },
+  {
+    "id": 1749514636505,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 600,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 7
+      }
+    ],
+    "total": 4200,
+    "despachado": true,
+    "fecha": "2025-06-10T00:17:16.505Z",
+    "fechaDespacho": "2025-06-10T00:17:19.359Z"
+  },
+  {
+    "id": 1749514813314,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 1
+      }
+    ],
+    "total": 300,
+    "despachado": true,
+    "fecha": "2025-06-10T00:20:13.314Z",
+    "fechaDespacho": "2025-06-10T00:20:16.859Z"
+  },
+  {
+    "id": 1749514903216,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 600,
+    "despachado": true,
+    "fecha": "2025-06-10T00:21:43.216Z",
+    "fechaDespacho": "2025-06-10T00:21:45.749Z"
+  },
+  {
+    "id": 1749514975914,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 600,
+    "despachado": true,
+    "fecha": "2025-06-10T00:22:55.914Z",
+    "fechaDespacho": "2025-06-10T00:22:58.733Z"
+  },
+  {
+    "id": 1749515062335,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 600,
+    "despachado": true,
+    "fecha": "2025-06-10T00:24:22.335Z",
+    "fechaDespacho": "2025-06-10T00:24:26.194Z"
+  },
+  {
+    "id": 1749515179269,
+    "productos": [
+      {
+        "id": "10",
+        "nombre": "Colin Alimado",
+        "precio": 1707,
+        "imagen": "https://images.unsplash.com/photo-1602510904648-cef1a47d92d4?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 3414,
+    "despachado": true,
+    "fecha": "2025-06-10T00:26:19.269Z",
+    "fechaDespacho": "2025-06-10T15:14:20.936Z"
+  },
+  {
+    "id": 1749568453551,
+    "productos": [
+      {
+        "id": "9",
+        "nombre": "Cubo Mecanico",
+        "precio": 300,
+        "imagen": "https://images.unsplash.com/photo-1657776655487-18dcab7b2c65?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 900,
+    "despachado": true,
+    "fecha": "2025-06-10T15:14:13.551Z",
+    "fechaDespacho": "2025-06-10T15:14:24.009Z"
+  },
+  {
+    "id": 1749570303588,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 2670,
+    "despachado": true,
+    "fecha": "2025-06-10T15:45:03.588Z",
+    "fechaDespacho": "2025-06-10T15:45:10.219Z"
+  },
+  {
+    "id": 1749570303608,
+    "productos": [
+      {
+        "id": "12",
+        "nombre": "Ajustable De Mano",
+        "precio": 890,
+        "imagen": "https://images.unsplash.com/photo-1503789188050-804ee34b3d32?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 2670,
+    "despachado": true,
+    "fecha": "2025-06-10T15:45:03.608Z",
+    "fechaDespacho": "2025-06-10T15:45:12.662Z"
+  },
+  {
+    "id": 1749596980529,
+    "productos": [
+      {
+        "id": "3",
+        "nombre": "Martillo De Madera",
+        "precio": 3,
+        "imagen": "https://images.unsplash.com/photo-1679210208120-1b6a008be9b4?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 5
+      }
+    ],
+    "total": 15,
+    "despachado": true,
+    "fecha": "2025-06-10T23:09:40.529Z",
+    "fechaDespacho": "2025-06-10T23:09:43.655Z"
+  },
+  {
+    "id": 1749597773607,
+    "productos": [
+      {
+        "id": "6",
+        "nombre": "Clip Para Bateria AMP",
+        "precio": 6,
+        "imagen": "https://images.unsplash.com/photo-1724069473573-8e8342a5eb7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 4
+      }
+    ],
+    "total": 24,
+    "despachado": true,
+    "fecha": "2025-06-10T23:22:53.607Z",
+    "fechaDespacho": "2025-06-10T23:22:56.947Z"
+  },
+  {
+    "id": 1749600681546,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 4,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 8,
+    "despachado": true,
+    "fecha": "2025-06-11T00:11:21.546Z",
+    "fechaDespacho": "2025-06-11T00:11:28.370Z"
+  },
+  {
+    "id": 1749767099751,
+    "productos": [
+      {
+        "id": "3",
+        "nombre": "Martillo De Madera",
+        "precio": 3,
+        "imagen": "https://images.unsplash.com/photo-1679210208120-1b6a008be9b4?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 2
+      }
+    ],
+    "total": 6,
+    "despachado": true,
+    "fecha": "2025-06-12T22:24:59.751Z",
+    "fechaDespacho": "2025-06-12T22:25:27.007Z"
+  },
+  {
+    "id": 1749768231220,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 4,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 12,
+    "despachado": true,
+    "fecha": "2025-06-12T22:43:51.220Z",
+    "fechaDespacho": "2025-06-12T22:57:16.286Z"
+  },
+  {
+    "id": 1749768258779,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 4,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 12,
+    "despachado": true,
+    "fecha": "2025-06-12T22:44:18.779Z",
+    "fechaDespacho": "2025-06-12T22:57:18.581Z"
+  },
+  {
+    "id": 1749768334289,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 4,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 12,
+    "despachado": true,
+    "fecha": "2025-06-12T22:45:34.289Z",
+    "fechaDespacho": "2025-06-12T22:57:13.743Z"
+  },
+  {
+    "id": 1749768962433,
+    "productos": [
+      {
+        "id": "4",
+        "nombre": "Tester De Medir Voltage",
+        "precio": 4,
+        "imagen": "https://images.unsplash.com/photo-1710194572710-bbd92a2d3f9c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 3
+      }
+    ],
+    "total": 12,
+    "despachado": true,
+    "fecha": "2025-06-12T22:56:02.433Z",
+    "fechaDespacho": "2025-06-12T22:57:21.254Z"
+  },
+  {
+    "id": 1750892665593,
+    "productos": [
+      {
+        "id": "6",
+        "nombre": "Clip Para Bateria AMP",
+        "precio": 6,
+        "imagen": "https://images.unsplash.com/photo-1724069473573-8e8342a5eb7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "cantidad": 5
+      }
+    ],
+    "total": 30,
+    "despachado": true,
+    "fecha": "2025-06-25T23:04:25.593Z",
+    "fechaDespacho": "2025-06-25T23:04:29.248Z"
   }
 ]

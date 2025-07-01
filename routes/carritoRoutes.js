@@ -2,8 +2,9 @@
 
 const express = require('express');
 const router = express.Router();
-const { obtenerCarrito, agregarAlCarrito, eliminarDelCarrito } = require('../controllers/carritoController');
+const { obtenerCarrito, agregarAlCarrito, eliminarDelCarrito,   } = require('../controllers/carritoController');
 const authMiddleware = require('../middleware/authMiddleware');
+
 
 // Obtener el carrito
 router.get('/', authMiddleware, obtenerCarrito);
